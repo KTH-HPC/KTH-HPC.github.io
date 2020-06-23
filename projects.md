@@ -5,13 +5,8 @@ layout: page
 show_sidebar: false
 ---
 
-This is a demo page showing the sidebar.
+# EPiGRAM-HS
+ENABLING EXTREME SCALE APPLICATIONS ON HETEROGENEOUS HARDWARE. [link](https://epigram-hs.eu)
 
-To show the sidebar set show_sidebar to true in the page's frontmatter.
-
-```yml
-title: Page With Sidebar
-subtitle: A demo page with a sidebar
-layout: page
-show_sidebar: true
-```
+# SAGE
+A UNIFIED DATA STORAGE SYSTEM PLATFORM FOR AI, DEEP LEARNING, BIG DATA ANALYSIS & HIGH PERFORMANCE COMPUTING WORKLOADS. [link](https://sagestorage.eu)
