@@ -1,0 +1,14 @@
+- label: Documentation
+  items:
+    - name: Installation 
+      link: /install/
+    - name: Input files
+      link: /inputfiles/
+    - name: Run simulations
+      link: /simulation/
+    - name: Visualize output
+      link: /visualization/
+    - name: Contribute
+      link: /contribute/
+    - name: Bug report
+      link: /bugs/

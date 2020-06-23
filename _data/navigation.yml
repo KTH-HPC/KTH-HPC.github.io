@@ -1,0 +1,25 @@
+- name: Features
+  link: /features/
+- name: Install
+  link: /install/
+- name: Publications
+  link: /blog/
+- name: Gallery
+  link: /gallery/
+- name: Documentations
+  link: /#
+  dropdown:
+    - name: Install
+      link: /install/
+    - name: Input files
+      link: /inputfiles/
+    - name: Run simulations
+      link: /simulation/
+    - name: Visualize output
+      link: /visualization/
+    - name: Contribute
+      link: /contribute/
+    - name: Bug reports
+      link: /bugs/
+    - name: Landing Page With Callouts
+      link: /landing/
