@@ -1,12 +1,12 @@
 # Site Settings
 remote_theme: chrisrhymes/bulma-clean-theme
-title: iPIC3D
-tagline: iPIC3D
+title: KTH HPC
+tagline: KTH HPC
 email: your-email@domain.com
 description: >
-  The is the official page of iPIC3D software.
-baseurl: ""
-url: "https://KTH-HPC.github.io"
+  KTH HPC Research Group
+baseurl: "/"
+url: "https://KTH-HPC.github.io/"
 permalink: pretty
 
 paginate: 5
