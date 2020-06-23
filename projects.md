@@ -1,6 +1,6 @@
 ---
-title: Features
-subtitle: Applications with iPIC3D
+title: Projects
+subtitle: Research Projects
 layout: page
 show_sidebar: false
 ---
