@@ -1,6 +1,6 @@
 ---
-title: iPIC3D
-subtitle: Multi-scale simulations of plasma using Particle-In-Cell method
+title: KTH HPC
+subtitle: The HPC Research Group at KTH
 layout: page
 #hero_image: /img/cover_pic.png
 hero_image:
@@ -17,8 +17,12 @@ Research overview
 
 # Projects
 
-More projects [here](/projects)
+EPiGRAM-HS [here](/projects)
+
+SAGE2 [here](/projects)
+
+VESTEC [here](/projects)
 
 # Software
 
-List of research software [here](/software).
+sputniPIC [here](/software).
